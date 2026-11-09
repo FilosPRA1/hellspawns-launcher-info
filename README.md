@@ -1,0 +1,1 @@
+# hellspawns-launcher-info
