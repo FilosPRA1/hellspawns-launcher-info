@@ -13,3 +13,29 @@ tokens currently remain in memory for the launcher session.
 This project is not affiliated with Mojang or Microsoft.
 
 Contact: Please open an issue in this repository.
+
+## Launcher screenshots
+
+These screenshots show the current development build. Minecraft API approval is
+pending, and the Play button remains disabled while game launching is developed.
+The setup screenshot uses example local folder paths.
+
+### Home
+
+Featured chapter, Classes / Cards / Bosses artwork, news placeholders, and the
+Microsoft account control.
+
+![Hellspawn's Descent launcher home screen](screenshots/home.png)
+
+### Modpack setup
+
+Local mod-file installation and updates, plus automatic Minecraft 1.21.1 and
+NeoForge 21.1.262 runtime setup. Saves and personal settings are preserved.
+
+![Hellspawn's Descent modpack installation screen](screenshots/modpack.png)
+
+### Chapter I
+
+The Gothic Fortress chapter description, opened through Read more.
+
+![Chapter I - The Gothic Fortress description](screenshots/chapter.png)
